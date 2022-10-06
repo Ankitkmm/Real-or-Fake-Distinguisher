@@ -12,7 +12,6 @@ The Dataset contains 1288 faces out of which
 
 <br>
 
-The "fake" faces collected in this dataset are generated using the StyleGAN2, which present a harder challenge to classify them correctly even for the human eye.
 
 ![image](https://user-images.githubusercontent.com/54859521/156918357-a2c60191-24f4-4bf1-a054-fb005f397968.png)
 ![image](https://user-images.githubusercontent.com/54859521/156918366-6a5e35e5-7f09-4784-978a-7e7db51649a1.png)
